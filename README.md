@@ -1,6 +1,5 @@
 # NFT preview card component with html and css
 
-![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
 
 ## The challenge
