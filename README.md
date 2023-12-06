@@ -14,8 +14,6 @@ Your users should be able to:
 - See hover states for interactive elements
 
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
-
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
