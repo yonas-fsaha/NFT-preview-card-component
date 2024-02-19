@@ -44,4 +44,3 @@ Once you've added your information to the template, delete this file and rename 
 
 
 
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
