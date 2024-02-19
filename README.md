@@ -37,7 +37,7 @@ Once you've added your information to the template, delete this file and rename 
 
 
 
- The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+ The more specific and detailed you are with your questions, 
 
 ## Sharing your solution
 
