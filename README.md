@@ -48,4 +48,3 @@ We provide templates to help you share your solution once you've submitted it on
 
 
 
-**Have fun building!** 🚀
