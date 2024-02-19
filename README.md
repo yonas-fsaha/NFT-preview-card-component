@@ -37,7 +37,6 @@ Once you've added your information to the template, delete this file and rename 
 
 
 
- The more specific and detailed you are with your questions, 
 
 ## Sharing your solution
 
