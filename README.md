@@ -28,7 +28,7 @@ Feel free to use any workflow that you feel comfortable with.
 
 ## you can create a custom `README.md`
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the 
+We strongly recommend overwriting this `README.md` with a custom one. 
 
 
 
