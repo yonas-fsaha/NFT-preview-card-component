@@ -28,7 +28,6 @@ Feel free to use any workflow that you feel comfortable with.
 
 ## you can create a custom `README.md`
 
-We strongly recommend overwriting this  
 
 
 
