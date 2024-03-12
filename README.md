@@ -19,7 +19,6 @@ Your users should be able to:
 
 Feel free to use any workflow that you feel comfortable with. 
 
-1. Initialize your project as a public repository on 
 
 
 # Frontend Mentor - NFT preview card component
