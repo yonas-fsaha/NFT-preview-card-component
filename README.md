@@ -19,9 +19,7 @@ Your users should be able to:
 
 Feel free to use any workflow that you feel comfortable with. 
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this,
-
-
+1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. 
 
 
 
