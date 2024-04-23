@@ -4,7 +4,7 @@
 
 ## The challenge
 
-Your challenge is to build out this preview card component and
+Your challenge is to build out this preview 
 
 
 
