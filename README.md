@@ -4,7 +4,6 @@
 
 ## The challenge
 
-Your challenge
 
 
 
