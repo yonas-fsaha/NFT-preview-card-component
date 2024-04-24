@@ -4,7 +4,7 @@
 
 ## The challenge
 
-Your challenge is to build out this preview 
+Your challenge is to build out 
 
 
 
