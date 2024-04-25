@@ -1,5 +1,4 @@
-# NFT preview card component with html and css
-
+# NFT preview card component with ]
 
 
 
