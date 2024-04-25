@@ -1,5 +1,3 @@
-# NFT preview card 
-
 
 
 
